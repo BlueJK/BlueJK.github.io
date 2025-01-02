@@ -13,6 +13,7 @@
                     <a href="#" class="btn btn-primary">See More</a>
                 </div>
             </div>
+            <!--
             <div class="card">
                 <img src="#" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -21,6 +22,8 @@
                     <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                 </div>
             </div>
+            -->
+            
         </div>
     </div>
 </template>
