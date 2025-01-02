@@ -6,7 +6,7 @@
             <p class="lead">Here contains some explanation of my projects and my contacts.</p>
             <hr class="my-4">
             <p class="lead">
-                <a class="btn btn-primary btn-lg" href="./projects" role="button">Visit projects</a>
+                <a class="btn btn-primary btn-lg" href="./projects" role="button">Visit Projects</a>
             </p>
         </div>
         <img src="@/assets/name.png" class="img-fluid" alt="...">
