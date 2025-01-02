@@ -7,7 +7,7 @@ import { RouterLink, RouterView } from 'vue-router'
   <header>
     <Navbar />
   </header>
-  <div class="container-fluid container-bg-color">
+  <div class="container-fluid">
     <RouterView />
   </div>
   

@@ -10,7 +10,7 @@
                 <a class="nav-link" href="/" @click="clicked(list_pages[0])">Home <span class="sr-only">(current)</span></a>
             </li>
             <li :class="['nav-item', {active: isActive(list_pages[1])}]" :id="list_pages[1]">
-                <a class="nav-link" href="/cv" @click="clicked(list_pages[1])">CV</a>
+                <a class="nav-link" href="/projects" @click="clicked(list_pages[1])">Projects</a>
             </li>
             <li :class="['nav-item', {active: isActive(list_pages[2])}]" :id="list_pages[2]">
                 <a class="nav-link" href="/contacts" @click="clicked(list_pages[2])">Contacts</a>
@@ -31,7 +31,7 @@ export default {
     data() {
         return {
             activePage: '',
-            list_pages: ['home', 'cv', 'contacts']
+            list_pages: ['home', 'projects', 'contacts']
         }
     },
     methods: {
