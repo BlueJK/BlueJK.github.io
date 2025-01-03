@@ -3,14 +3,14 @@
         <p class="h1">Projects</p>
         <div class="card-deck">
             <div class="card">
-                <img src="#" class="card-img-top" alt="...">
+                <!-- <img src="#" class="card-img-top" alt="..."> -->
                 <div class="card-body">
                     <h5 class="card-title">Doremii Social Network</h5>
                     <p class="card-text">In this project we created a music social network web application using Vue.js to develop front-end
-                        and FastAPI to develop back-end. The application is deployed on Microsoft Azure (Unavailable).
+                        and FastAPI to develop back-end. The application is deployed on Microsoft Azure (Unavailable). My role was front-end.
                     </p>
                     <p class="card-text"><small class="text-muted">Created in 2024, duration 3 months</small></p>
-                    <!-- <a href="" class="btn btn-primary">See More</a> -->
+                    <router-link to="./projects/Doremii" class="btn btn-primary">See More</router-link>
                 </div>
             </div>
             <!--
