@@ -10,7 +10,7 @@
                         and FastAPI to develop back-end. The application is deployed on Microsoft Azure (Unavailable).
                     </p>
                     <p class="card-text"><small class="text-muted">Created in 2024, duration 3 months</small></p>
-                    <a href="#" class="btn btn-primary">See More</a>
+                    <!-- <a href="" class="btn btn-primary">See More</a> -->
                 </div>
             </div>
             <!--
